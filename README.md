@@ -72,3 +72,7 @@ You can exit with `CTRL-C`
 ```
 
 打开浏览器，访问``http://127.0.0.1:5000``，你会看到一个欢迎界面
+
+## 前端仓库链接
+
+https://github.com/liushuangSRD/pet_system_vue.git
